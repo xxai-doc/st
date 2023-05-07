@@ -7,3 +7,4 @@ Khoutu ea mantlha ea sebaka sa Marang-rang ke mohloli o bulehileng, rea u amohel
 * [khoutu ea pele](https://github.com/xxai-art/web)
 * [Liphutheloana tsa puo bakeng sa sebaka ka kakaretso](https://github.com/xxai-art/web/tree/main/i18n)
 * [Lipakete tsa puo bakeng sa li-module tsa ho kena](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Litokomane tsa Lipuo Tse Ngata Webosaete](https://github.com/xxai-doc)
